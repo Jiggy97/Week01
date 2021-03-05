@@ -3,6 +3,7 @@
 ### 1주차 과제
 <img src="https://user-images.githubusercontent.com/79949843/110126809-27f2e500-7e08-11eb-87cb-bbd6536e3371.jpg" width="700" height="370">
 
+---
 
 ### 두뇌 
 
@@ -12,7 +13,7 @@ Preferred activities : collecting data, analysis, understanding how things work,
 
 1. ( ) 도서관 방문, 인터넷 검색 등 지식과 정보를 찾고 수집하기
 2. ( ) 기본 모형을 설정해서 정보를 논리적으로 분석하기
-3. (O) 유용한 정보를 제공하는 강의를 듣기
+3. * [x] 유용한 정보를 제공하는 강의를 듣기
 4. ( ) 다리나 기계장비 등 공학적 인공물(다리나 기계 등)을 연구하기 위한 목적으로 문화가 다른 지역을 조사하기
 5. (O) 합리적, 비판적 사고로 아이디어를 숙고하기
 6. (O) 가설을 세우고 이를 검증해서 연구하기
