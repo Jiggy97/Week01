@@ -1,18 +1,18 @@
 # Week01
 
-### 1주차 과제
+## 1주차 과제
 <img src="https://user-images.githubusercontent.com/79949843/110126809-27f2e500-7e08-11eb-87cb-bbd6536e3371.jpg" width="700" height="370">
 
 ---
 
-### 두뇌 
+## 두뇌 
 
-#### 201821058 안준영
+### 201821058 안준영
 
-**A quadrant:** Analytical thinking (Rational)
-**Key words :** Auditive, logical, factual, critical, 
+**A quadrant: Analytical thinking (Rational)
+Key words : Auditive, logical, factual, critical, 
 technical and quantitative.
-**Preferred activities :** collecting data, analysis,
+Preferred activities : collecting data, analysis,
 understanding how things work,
 judging ideas based on facts, criteria and logical reasoning.
 
@@ -27,10 +27,10 @@ judging ideas based on facts, criteria and logical reasoning.
 9. * [ ] (미래의 가능성보다는) 현실적인 것을 다루기
 10. * [x] 컴퓨터를 이용해서 수학문제 풀이나 정보처리 하기
 
-**B quadrant:** Sequential thinking (Practical)
-**Key words :** safekeeping, structured,
+**B quadrant: Sequential thinking (Practical)
+Key words : safekeeping, structured,
 organized, complexity or detailed, planned.
-**Preferred activities :** following directions,
+Preferred activities : following directions,
 detail oriented work, step-by-step problem solving,
 organization and implementation.
 
@@ -45,10 +45,10 @@ organization and implementation.
 9. * [ ] 예산을 상세하게 세우기
 10. * [x] 조직과 절차를 배우기 위하여 현장실습 하기
 
-**C quadrant:** Interpersonal thinking (Feeling)
-**Key words :** Kinesthetic, emotional,
+**C quadrant: Interpersonal thinking (Feeling)
+Key words : Kinesthetic, emotional,
 spiritual, sensory, feeling.
-**Preferred activities :** listening to and expressing ideas,
+Preferred activities : listening to and expressing ideas,
 looking for personal meaning, sensory input, and group interaction.
 
 1. * [x] 다른 사람들의 아이디어를 경청하여 영감이나 아이디어를 공유하기
@@ -62,9 +62,9 @@ looking for personal meaning, sensory input, and group interaction.
 9. * [x] 다른 사람의 시각이나 권리를 존중하며, 사물이 아닌 사람을 중시
 10. * [x] 다른 사람을 가르치면서 배우기
 
-**D quadrant:** Imaginative thinking (Experimental)
-**Key words :** Visual, holistic, intuitive, innovative,and conceptual.
-**Preferred activities :** Looking at the big picture,
+**D quadrant: Imaginative thinking (Experimental)
+Key words : Visual, holistic, intuitive, innovative,and conceptual.
+Preferred activities : Looking at the big picture,
 taking initiative,challenging assumptions, visuals,
 metaphoric thinking, creative problem solving, long term thinking.
 
@@ -86,3 +86,5 @@ metaphoric thinking, creative problem solving, long term thinking.
 |B|7개|
 |C|8개|
 |D|7개|
+
+### 장지민
