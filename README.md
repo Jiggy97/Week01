@@ -80,8 +80,9 @@ metaphoric thinking, creative problem solving, long term thinking.
 10. * [ ] 재미삼아 전혀 다른 방법으로 일을 시도해보기
 
 **결과**
-|A|6개|
+|Type|Check Count|
 |:---:|:---:|
+|A|6개|
 |B|7개|
 |C|8개|
 |D|7개|
