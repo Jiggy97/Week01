@@ -86,7 +86,7 @@ metaphoric thinking, creative problem solving, long term thinking.**
 |C|8개|
 |D|7개|
 
-### 장지민
+### 201921087 장지민
 
 **A quadrant: Analytical thinking (Rational)
 Key words : Auditive, logical, factual, critical, technical and quantitative.
