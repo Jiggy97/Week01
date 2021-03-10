@@ -1,3 +1,8 @@
+# Week02
+
+![201821058안준영](https://user-images.githubusercontent.com/79949843/110565651-23288b00-8192-11eb-8bae-c7636d3693ab.jpg)
+
+
 # Week01
 
 ## 1주차 과제
