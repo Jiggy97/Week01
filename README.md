@@ -2,7 +2,7 @@
 
 ## 2주차 과제(2) _ 깃허브 수정 코드
 
-![Week2_2 과제](https://user-images.githubusercontent.com/79949843/110752207-49c8ed80-8288-11eb-8edf-e781ef0a2df6.PNG)
+![모프_Wee2_과제2](https://user-images.githubusercontent.com/79949843/110752325-7a108c00-8288-11eb-996e-221b188affbd.PNG)
 
 ## 2주차 과제(1)
 
