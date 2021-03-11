@@ -1,5 +1,9 @@
 # Week02
 
+## 2주차 과제(2) _ 깃허브 수정 코드
+
+## 2주차 과제(1)
+
 ![201821058안준영](https://user-images.githubusercontent.com/79949843/110565651-23288b00-8192-11eb-8bae-c7636d3693ab.jpg)
 
 
